@@ -40,7 +40,7 @@
 
 }
 .card {
-    background: #fff;
+    background: #eee;
     margin: 0;
     padding: 2px !important;
     margin: 0 !important;
